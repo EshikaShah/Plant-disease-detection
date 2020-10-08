@@ -12,15 +12,15 @@ We will be deploying the model on an app so that the user can make use of the ca
    - [x] Data cleaning and pipelining
    - [x] Building a model
    - [x] Training the model
-   - [ ] Testing the model
-   - [ ] Improvising the model
-   - [ ] Saving the model in a pickle file extension
+   - [x] Testing the model
+   - [x] Improvising the model
+   - [x] Saving the model in a pickle file extension
 - ⛳ Creation of API
    - [ ] Importing the Pickle file
    - [ ] Testing the API
 - ⛳ App Development
    - [ ] Front End
-      - [-] Home page
+      - [ ] Home page
       - [ ] Input integration
    - [ ] Back End
       - [ ] Integrating the API with the app
