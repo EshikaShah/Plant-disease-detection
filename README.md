@@ -19,9 +19,9 @@ We will be deploying the model on an app so that the user can make use of the ca
    - [ ] Importing the Pickle file
    - [ ] Testing the API
 - ⛳ App Development
-   - [ ] Front End
-      - [ ] Home page
-      - [ ] Input integration
+   - [x] Front End
+      - [x] Home page
+      - [x] Input integration
    - [ ] Back End
       - [ ] Integrating the API with the app
       - [ ] Integrating a camera in the app
