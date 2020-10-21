@@ -9,19 +9,19 @@ We will be deploying the model on an app so that the user can make use of the ca
 
 ### 📍 Major Checkpoints and Pipelines 
 - ⛳ Data Science
-   - [ ] Data cleaning and pipelining
-   - [ ] Building a model
-   - [ ] Training the model
-   - [ ] Testing the model
-   - [ ] Improvising the model
-   - [ ] Saving the model in a pickle file extension
+   - [x] Data cleaning and pipelining
+   - [x] Building a model
+   - [x] Training the model
+   - [x] Testing the model
+   - [x] Improvising the model
+   - [x] Saving the model in a pickle file extension
 - ⛳ Creation of API
    - [ ] Importing the Pickle file
    - [ ] Testing the API
 - ⛳ App Development
-   - [ ] Front End
-      - [ ] Home page
-      - [ ] Input integration
+   - [x] Front End
+      - [x] Home page
+      - [x] Input integration
    - [ ] Back End
       - [ ] Integrating the API with the app
       - [ ] Integrating a camera in the app
